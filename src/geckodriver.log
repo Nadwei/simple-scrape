@@ -1,0 +1,85 @@
+1693789260581	geckodriver	INFO	Listening on 127.0.0.1:64653
+1693789263687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofileUquCwq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693789264043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693789264136	Marionette	INFO	Listening on port 64681
+WebDriver BiDi listening on ws://127.0.0.1:64654
+Read port: 64681
+1693789264369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64654/devtools/browser/46b3fb73-4db6-4c56-a019-f9201ed25816
+1693789269797	Marionette	INFO	Stopped listening on port 64681
+JavaScript warning: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.RZJaCAMcS-o.es5.O/am=CADMNg/d=1/excm=_b,_r,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtIIEI7lE1mb0BxcLPoDvO6ZgicQw/m=_b,_tp,_r, line 249: Script terminated by timeout at:
+c@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.RZJaCAMcS-o.es5.O/am=CADMNg/d=1/excm=_b,_r,_tp,calloutview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtIIEI7lE1mb0BxcLPoDvO6ZgicQw/m=_b,_tp,_r:249:187
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693789956508	geckodriver	INFO	Listening on 127.0.0.1:49504
+1693789959598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofilegxqBWc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693789960173	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693789960242	Marionette	INFO	Listening on port 49527
+WebDriver BiDi listening on ws://127.0.0.1:49505
+Read port: 49527
+1693789960445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49505/devtools/browser/6cc33888-4930-4f03-9c5f-7161bd9ff03b
+1693789967240	Marionette	INFO	Stopped listening on port 49527
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694569650006	geckodriver	INFO	Listening on 127.0.0.1:52234
+1694569653184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofilecgkOTP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694569653777	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694569653866	Marionette	INFO	Listening on port 52260
+WebDriver BiDi listening on ws://127.0.0.1:52235
+Read port: 52260
+1694569654117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52235/devtools/browser/c6d0ff14-0ccd-4d0f-81a6-dbcf7de6160e
+JavaScript warning: https://leg.colorado.gov/sites/default/files/js/js_5yqvWkSNsW7zh8eZWmDJzdVqT8czVRALQi5Ugmhoswc.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1694569661790	Marionette	INFO	Stopped listening on port 52260
+JavaScript warning: https://script.hotjar.com/modules.70a1f565e966e4ccde7b.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.70a1f565e966e4ccde7b.js:2:41982
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694569846764	geckodriver	INFO	Listening on 127.0.0.1:52585
+1694569849823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofile3STsVd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694569850238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694569850312	Marionette	INFO	Listening on port 52605
+WebDriver BiDi listening on ws://127.0.0.1:52586
+Read port: 52605
+1694569850514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52586/devtools/browser/7390c194-b452-4ab4-b655-2ad312f274ca
+JavaScript warning: https://leg.colorado.gov/sites/default/files/js/js_5yqvWkSNsW7zh8eZWmDJzdVqT8czVRALQi5Ugmhoswc.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1694569857634	Marionette	INFO	Stopped listening on port 52605
+JavaScript warning: https://script.hotjar.com/modules.70a1f565e966e4ccde7b.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.70a1f565e966e4ccde7b.js:2:41982
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1694570120906	geckodriver	INFO	Listening on 127.0.0.1:53054
+1694570123971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofileHQMJpg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694570124309	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694570124378	Marionette	INFO	Listening on port 53074
+WebDriver BiDi listening on ws://127.0.0.1:53055
+Read port: 53074
+1694570124578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53055/devtools/browser/b8d9f7f1-b04b-4058-bbbb-2903ffb1bc54
+JavaScript warning: https://leg.colorado.gov/sites/default/files/js/js_5yqvWkSNsW7zh8eZWmDJzdVqT8czVRALQi5Ugmhoswc.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1694570131425	Marionette	INFO	Stopped listening on port 53074
+JavaScript warning: https://script.hotjar.com/modules.70a1f565e966e4ccde7b.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.70a1f565e966e4ccde7b.js:2:41982
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed

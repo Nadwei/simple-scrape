@@ -1,0 +1,150 @@
+1693864793028	geckodriver	INFO	Listening on 127.0.0.1:52690
+1693864796078	mozrunner::runner	INFO	Running command: "C:\\P1693864796806	mozrunner::runner	INFO	Running command: "C:\\P1693864797828	mozrunner::runner	INFO	Running command: "C:\\P1693864798373	mozrunner::runner	INFO	Running command: "C:\\P1693864798617	mozrunner::runner	INFO	Running command: "C:\\P1693864798931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1693864799591	Marionette	INFO	Marionette enabled
+Dynamicall1693864800349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+169386481693864809171	Marionette	INFO	Stopped listening on port 52781693864812397	Marionette	INFO	Stopped listening on port 52811693864818563	Marionette	INFO	Stopped listening on port 52841693864821391	Marionette	INFO	Stopped listening on port 52869
+JavaScript warning: https://cdn.popt.in/pixel.js?id=073e59edddc2d, line 1: Script terminated by timJavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+s://cdn.popt.in/pixel.js?id=073e59edddc2d:1:215644
+25/window.pageLoadCheck/Xo[t]<@https://cdn.popt.in/pixel.js?id=073e59edddc2d:1:218782
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693864826777	geckodriver	INFO	Listening on 127.0.0.1:53433
+1693864829812	mozrunner::runner	INFO	Running command: "C:\\P1693864830180	mozrunner::runner	INFO	Running command: "C:\\P1693864831915	mozrunner::runner	INFO	Running command: "C:\\P1693864832548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofilegQyQEo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693864833167	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693864833408	Marionette	INFO	Listening on port 53606
+WebDriver BiDi listening on ws://127.0.0.1:53477
+Read port: 53606
+1693861693864841018	Marionette	INFO	Stopped listening on port 5351169Dynamically enable window occlusion 1
+ening on port 53519
+JavaScript warning: https://tags.tiqcdn.com/utag/natural-intelligence/top10/prod/utag.js, line 247: Script terminated by timeout at:
+naturalint_tag.gdpr.promptEnabledSetting@https://tags.tiqcdn.com/utag/natural-intelligence/top10/prod/utag.js:247:105
+@https://tags.tiqcdn.com/utag/natural-intelligence/top10/prod/utag.js:261:595
+
+Dynamically enable window occlusion 1
+erm=blog&utm_campaign=Bing+CPC+Campaign&c=73255218694610&m=e&k=73255162533039&binterest=&bphysical=93114&bfeedid=&a=B2220&ts=&topic=&upf=&test=&clicktype=&msclkid=b1a32f7437e813591fd04b8264d7f823, line 98: Script terminated by timeout at:
+@https://www.top10.com/website-builders/blog-comparison?bkw=blog&bcampid=370483634&bcamp=WB%20US%20%2B%20CA%20SP%20Bing%20tCPA&bagid=1172080299350144&bag=blog%2Fs%20phrase%20%26%20exact&btarid=kwd-73255162533039:loc-4085&bidm=be&bnet=o&bd=c&bmobval=0&bt=search&utm_source=bing&utm_medium=cpc&utm_term=blog&utm_campaign=Bing+CPC+Campaign&c=73255218694610&m=e&k=73255162533039&binterest=&bphysical=93114&bfeedid=&a=B2220&ts=&topic=&upf=&test=&clicktype=&msclkid=b1a32f7437e813591fd04b8264d7f823:98:7
+
+1693864842263	Marionette	INFO	Stopped listening on port 53606
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693864938440	geckodriver	INFO	Listening on 127.0.0.1:54013
+1693864941499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofileQU6rQD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693864941841	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693864941921	Marionette	INFO	Listening on port 54034
+WebDriver BiDi listening on ws://127.0.0.1:54014
+Read port: 54034
+1693864942132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54014/devtools/browser/fb821487-852f-4658-971c-a59376bd1464
+1693864949151	Marionette	INFO	Stopped listening on port 54034
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js, line 1869: Script terminated by timeout at:
+g.oC/<@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1869:49
+
+JavaScript warning: https://www.youtube.com/s/player/0a835141/www-widgetapi.vflset/www-widgetapi.js, line 1252: Script terminated by timeout at:
+hr/</this[c]@https://www.youtube.com/s/player/0a835141/www-widgetapi.vflset/www-widgetapi.js:1252:279
+92694/t.callPlayer@https://kinsta.com/wp-content/themes/kinsta/dist/4641.js?ver=490b6eecbdbbad4e84ed:2:31025
+value@https://kinsta.com/wp-content/themes/kinsta/dist/reactPlayerYouTube.js?ver=6c90e347a6005fde286c:1:7254
+value@https://kinsta.com/wp-content/themes/kinsta/dist/4641.js?ver=490b6eecbdbbad4e84ed:2:12226
+79026/u/g<@https://kinsta.com/wp-content/themes/kinsta/dist/4641.js?ver=490b6eecbdbbad4e84ed:2:9096
+
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.google.com/js/th/K8SSrmJCfsXVrDh5Yhryebw1Wq-828o83bBnUIGFgGY.js line 2 > eval line 7063 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693864976557	geckodriver	INFO	Listening on 127.0.0.1:54213
+1693864979622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofilewOKBSr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693864979926	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693864980010	Marionette	INFO	Listening on port 54231
+WebDriver BiDi listening on ws://127.0.0.1:54214
+Read port: 54231
+1693864980246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54214/devtools/browser/7bc0264e-a598-45cb-a1a1-f361356f46d1
+1693864985550	Marionette	INFO	Stopped listening on port 54231
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js, line 2: Script terminated by timeout at:
+@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js:2:2536
+@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js:2:220
+@https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js:2:225
+
+JavaScript error: https://cdn.popt.in/pixel.js?id=073e59edddc2d, line 1: ReferenceError: jQuery is not defined
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693865032564	geckodriver	INFO	Listening on 127.0.0.1:54346
+1693865035626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofileNCLRFZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693865035923	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693865035993	Marionette	INFO	Listening on port 54366
+WebDriver BiDi listening on ws://127.0.0.1:54347
+Read port: 54366
+1693865036223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54347/devtools/browser/378ae575-0ce5-4516-a5bb-b6328c6efdd5
+1693865041630	Marionette	INFO	Stopped listening on port 54366
+JavaScript warning: https://cdn.userway.org/widgetapp/2023-09-04/widget_app_base_1693854018837.js, line 3: Script terminated by timeout at:
+i@https://cdn.userway.org/widgetapp/2023-09-04/widget_app_base_1693854018837.js:3:6598
+u@https://cdn.userway.org/widgetapp/2023-09-04/widget_app_base_1693854018837.js:3:7196
+l/</e<@https://cdn.userway.org/widgetapp/2023-09-04/widget_app_base_1693854018837.js:3:8618
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693865085166	geckodriver	INFO	Listening on 127.0.0.1:54473
+1693865088246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofileN1hl2f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693865088553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693865088623	Marionette	INFO	Listening on port 54491
+WebDriver BiDi listening on ws://127.0.0.1:54474
+Read port: 54491
+1693865088853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54474/devtools/browser/59035191-2e90-4179-aa3b-e3f6c60ad7a0
+1693865094557	Marionette	INFO	Stopped listening on port 54491
+JavaScript warning: https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js, line 1057: Script terminated by timeout at:
+On/this.done</<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1057:149
+
+JavaScript warning: https://www.youtube.com/s/player/0a835141/www-widgetapi.vflset/www-widgetapi.js, line 1232: Script terminated by timeout at:
+q.sendMessage@https://www.youtube.com/s/player/0a835141/www-widgetapi.vflset/www-widgetapi.js:1232:23
+q.Fc@https://www.youtube.com/s/player/0a835141/www-widgetapi.vflset/www-widgetapi.js:1229:51
+
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.google.com/js/th/K8SSrmJCfsXVrDh5Yhryebw1Wq-828o83bBnUIGFgGY.js line 2 > eval line 2866 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693865733144	geckodriver	INFO	Listening on 127.0.0.1:54929
+1693865736207	mozrunner::runner	INFO	Running command: "C:\\P1693865737214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofileebFbSM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693865737628	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693865737712	Marionette	INFO	Listening on port 54986
+WebDriver BiDi listening on ws://127.0.0.1:54942
+Read port: 54986
+1693865737957	RemoteAgent	WADevTools listening on ws://127.0.0.1:54930/devtools/browser/DevTools listening on ws://127.0.0.1:54942/devtools/browser/f5ee391e-dbcd-465e-99b8-abcda58729c7
+JavaScript warning: https://leg.colorado.gov/sites/default/files/js/js_5yqvWkSNsW7zh8eZWmDJzdVqT8czVRALQi5Ugmhoswc.js, line 2: Using //@ to indica1693865741599	Marionette	INFO	Stopped listening on port 54961693865742240	Marionette	INFO	Stopped listening on port 54986
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+cclusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693978124235	geckodriver	INFO	Listening on 127.0.0.1:64701
+1693978127350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NATEAD~1\\AppData\\Local\\Temp\\rust_mozprofilec4nmJ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693978127845	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693978127931	Marionette	INFO	Listening on port 64727
+WebDriver BiDi listening on ws://127.0.0.1:64702
+Read port: 64727
+1693978128200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64702/devtools/browser/030a725e-b3ee-41eb-b7ff-891dba5e74ec
+JavaScript warning: https://leg.colorado.gov/sites/default/files/js/js_5yqvWkSNsW7zh8eZWmDJzdVqT8czVRALQi5Ugmhoswc.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1693978132388	Marionette	INFO	Stopped listening on port 64727
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
