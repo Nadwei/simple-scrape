@@ -1,7 +1,7 @@
 import React from "react";
 import {Link} from "react-router-dom";
-import Home from "./Home.js"
-import About from "./About"
+import Home from "../pages/Home.js"
+import About from "../pages/About.js"
 
 
 export default function Header(){

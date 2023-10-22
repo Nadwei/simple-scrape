@@ -1,7 +1,7 @@
 import React from "react"; 
-import Header from "./Header.js";
-import Scraper from "./Scraper.js";
-import Footer from "./Footer.js";
+import Header from "../components/Header.js";
+import Scraper from "../components/Scraper.js";
+import Footer from "../components/Footer.js";
 
 
 export default function Home(){
