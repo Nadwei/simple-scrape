@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "click": "8.1.7",
+    "click": "0.1.0",
 "colorama": "0.4.6",
 "Django": "4.2.4",
 "exceptiongroup": "1.1.3",
